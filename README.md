@@ -17,6 +17,7 @@
 
 ## Badges
 <img height="100px" width="100px" src="https://www.exin.com/app/uploads/2022/05/EXIN_Badge_ModuleFoundation_EthicalHacking.png"/>
+<img height="100px" width="80px" src="https://assets.ine.com/certifications/badges/eJPT.png"/>
 
 ### Another badges
 <div style="display: flex; gap: 10px;">
