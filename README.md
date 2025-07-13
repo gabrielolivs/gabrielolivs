@@ -4,6 +4,7 @@
 ### Companies I worked
 <div>
 <img height="100px" width="100px" src="https://yt3.googleusercontent.com/ytc/AOPolaRX9tb_NB6jjTtlA1OT08pSfjzZtUBC9ctKLjX_=s176-c-k-c0x00ffffff-no-rj-mo"/>
+<img height="100px" width="100px" src="https://media.licdn.com/dms/image/v2/D4D0BAQHPD1EBYAz6Mw/company-logo_200_200/B4DZedoH6OHkAI-/0/1750696230952/tribanco_logo?e=2147483647&v=beta&t=0NBTmCQ9CiJIjcx4LNVWleXtvPi4i2bC4Fj61LuZ_RI"/>
 
 ## Knowledge
 <div style="display: flex; gap: 10px;">
